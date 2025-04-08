@@ -1,0 +1,8 @@
+Compare the following job description with the candidate’s resume.
+Identify missing skills, strengths, and areas of improvement.
+
+Job Description:
+{job}
+
+Resume:
+{resume}

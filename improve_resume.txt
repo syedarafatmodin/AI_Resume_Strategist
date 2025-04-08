@@ -1,0 +1,7 @@
+Given the following resume and job description, suggest improvements to the resume to increase the chances of getting hired.
+
+Resume:
+{resume}
+
+Job Description:
+{job}

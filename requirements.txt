@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+beautifulsoup4
+requests
+python-docx
+pdfplumber
+python-dotenv
+streamlit

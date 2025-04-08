@@ -1,0 +1,7 @@
+Write a personalized, enthusiastic, and professional cover letter based on the following resume and job description.
+
+Resume:
+{resume}
+
+Job Description:
+{job}
