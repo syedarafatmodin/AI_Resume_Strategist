@@ -44,17 +44,19 @@ The Resume Strategist Agent helps job seekers optimize their resume for specific
 
 ```
 resume-strategist-agent/
-│
-├── frontend.py              # Streamlit UI
-├── resume_parser.py         # PDF parsing logic
-├── job_scraper.py           # LinkedIn job scraping
-├── resume_analyzer.py       # Skill gap + matching logic
-├── cover_letter_generator.py# LLM-powered cover letter
-├── utils/                   # Helper functions/utilities
-├── .env                     # API keys (not pushed to GitHub)
-├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation
-```
+
+job_optimizer/
+├── main.py
+├── job_scraper.py
+├── resume_parser.py
+├── ai_agent.py
+├── prompts/
+│   ├── analyze_job.txt
+│   ├── improve_resume.txt
+│   └── cover_letter.txt
+├── .env
+├── requirements.txt
+
 
 ---
 
