@@ -1,8 +1,3 @@
-Sure! Here's a clean and professional `README.md` file for your AI-powered Resume Strategist Agent project, ready to be pushed to GitHub:
-
----
-
-```markdown
 # 🤖 AI-Powered Resume Strategist Agent
 
 An intelligent agent that reads your resume, scrapes job descriptions from LinkedIn, performs a comparative analysis, and generates actionable insights to boost your job applications.
@@ -142,5 +137,3 @@ DM me on LinkedIn or raise an issue if you’d like to collaborate or need help!
 ```
 
 ---
-
-Let me know if you’d like me to include a badge (like "Made with Streamlit", Python version, etc.) or update with your GitHub repo name and LinkedIn link!
